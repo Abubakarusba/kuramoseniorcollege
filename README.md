@@ -1,0 +1,2 @@
+# kuramoseniorcollege
+school web
